@@ -3,12 +3,12 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@capacitor/core": "2.4.0",
-    "@ionic/react": "^5.0.7",
-    "ionicons": "^5.0.0",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "@capacitor/core": "2.4.2",
+    "@ionic/react": "5.3.3",
+    "ionicons": "5.1.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,7 +32,7 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.4.0"
+    "@capacitor/cli": "2.4.2"
   },
   "description": "An Ionic project"
 }
